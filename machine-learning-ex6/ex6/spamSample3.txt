@@ -1,0 +1,4 @@
+Good morning. 
+I've read your paper about LGC Net (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7937881). It is very interesting. I'm trying to replicate all the methods (to make a review) on the same dataset, but when I apply fsrcnn with scale 2 and 4 I obtain wronged results (are lower than yours).  Have you used the same patch size for each method? Or have you used the basic settings described in each paper?. Further, can you provide me the code of LGCNet in order to put your method in the review? 
+Thanks for your help.
+Maffei Alessandro.
